@@ -1,6 +1,7 @@
 ﻿/*  For Windows environment where no reasonable keyboard can be installed.
     1. Install AutoHotKey https://www.autohotkey.com/download/ahk-v2.exe
-    2. Place shortcut to this script in 
+    2. Place shortcut to this script in C:\Users\<USERNAME>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+*/
 
 #Requires AutoHotkey v2.0
 
